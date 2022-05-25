@@ -1,4 +1,5 @@
+The ssh test
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-The final exercise.
+Commit a new line.
